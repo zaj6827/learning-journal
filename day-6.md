@@ -1,0 +1,1 @@
+Today I learned about objects, how they work, properties of objects, and methods. It took a long time to wrap my head around, but with the help of my classmates, the TAs, and Sam himself, I am incredibly confident in my ability to navigate and explain how objects function.
