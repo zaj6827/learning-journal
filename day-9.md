@@ -1,0 +1,2 @@
+#Learning Journal Day 9
+The past few days have been a bit rough, but I'm grasping all the JavaScript concepts. I am having a hard time with CSS, but I think it's just a matter of me not having as much hands-on time with it. I reread through the positioning chapter, and I'm going to try my hand at moving images around. I also really want to make a navigation bar, it sounds like it will be challenging with my layman's knowledge of CSS though. So I'm going to practice a bit in CSS Zen and see what I can learn and bring over to this cookie stand project.
