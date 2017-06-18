@@ -1,0 +1,2 @@
+#Learning Journal Day 10
+CSS is hard. I don't really hate it, but it's way more difficult then I thought it was going to be. Something that I thought would only take maybe 2 hours ended up taking almost 5. The hardest part of it for me was positioning. I went back to my book for reference constantly, and had multiple tabs open for ideas to implement and make my page layout look the way I needed it to look. This CodePen assignment will hopefully get me more comfortable with CSS in general though.
