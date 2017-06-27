@@ -1,0 +1,2 @@
+#Day 17
+Project Week has not started strong for our group. We're having issues deciding on where to start, and what's more important to be working on. I also had difficulty learning the tools necessary to complete the project, GIMP and Chart.js being the two big hurdles for me. I did have some success with both, but there's still a lot of learning to do. Hopefully by Wednesday we'll meet our MVP goal, and have time to debug and correct anything that comes up on Thursday.
